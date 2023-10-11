@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="home"
+        android:icon="@drawable/baseline_add_home_24"/>
+
+    <item
+        android:id="@+id/friend"
+        android:title="friend"
+        android:icon="@drawable/baseline_groups_2_24"/>
+
+    <item
+        android:id="@+id/add"
+        android:title="add"
+        android:icon="@drawable/tiktok_ui_element_add_icon"/>
+
+    <item
+        android:id="@+id/inbox"
+        android:title="inbox"
+        android:icon="@drawable/baseline_receipt_24"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="profile"
+        android:icon="@drawable/baseline_person_2_24"/>
+
+
+
+</menu>

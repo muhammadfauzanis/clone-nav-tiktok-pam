@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavTiktok</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homePage">Ini Home Page</string>
+    <string name="friendPage">Ini halaman teman</string>
+    <string name="inboxPage">Ini adalah Inbox Page</string>
+    <string name="profilePage">Ini adalah halaman Profile</string>
+</resources>
