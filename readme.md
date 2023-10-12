@@ -11,6 +11,10 @@ Yang kami ambil Tab Navigation : Tiktok
 
 ### Tab Navigation : TikTok
 ![Tiktok](/screenshot/IMG_20231011_162324.jpg)
+![Instagram](/screenshot/IMG_20231011_162422.jpg)
+![Youtube](/screenshot/Picture1.jpg)
+![Whatsapp](/screenshot/Picture2.jpg)
+![Spotify](/screenshot/Picture3.jpg)
 ### bottom Navigation : Instagram
 ![Instagram](/screenshot/IMG_20231011_162422.jpg)
 ### Drawer Navigation : Telegram
